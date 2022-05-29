@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishdafish24
-- 👀 I’m interested in webscraping. and data analysis for quantative trading.
+- 👀 I’m interested in 
 - 🌱 I’m currently learning statiscal analysis and webscraping.
 - 💞️ I’m looking to collaborate on anything cool.
 - 📫 How to reach me: isareen9@gmail.com
